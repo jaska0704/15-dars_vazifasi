@@ -109,4 +109,156 @@ body {
   flex-shrink: 0;
   border-radius: 5px;
   background: #f2f2f2;
+}
+
+.bg-color {
+  width: 911px;
+  height: 60px;
+  z-index: 999;
+  flex-shrink: 0;
+  border-radius: 10px 10px 0px 0px;
+  background-color: #0f0a2b;
+  margin-top: 6rem;
+}
+
+.chat-ul {
+  margin-left: 18rem;
+}
+
+.search2 {
+  width: 100px;
+  margin-top: 0.2rem;
+}
+
+.icon {
+  margin-top: 0.5rem;
+}
+
+.icon {
+  margin-left: 8rem;
+}
+
+.bg-color2 {
+  width: 911px;
+  height: 716px;
+  flex-shrink: 0;
+  border-radius: 0 0 0px 0px;
+  background: #140E39;
+}
+
+.microphone {
+  margin-left: -8.5rem;
+  position: relative;
+  top: 5.5rem;
+  color: black;
+  z-index: 99;
+}
+
+.voices {
+  margin-top: 11rem;
+  margin-left: -7.5rem;
+  position: relative;
+  z-index: 9999;
+}
+
+.img-3 {
+  margin-right: 8rem;
+}
+
+.back-color-two {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #e72c79;
+  z-index: 999;
+  position: relative;
+  left: 8rem;
+  top: -4rem;
+}
+
+.text-down {
+  margin-top: 1rem;
+  margin-left: 5.5rem;
+}
+
+.img {
+  margin-top: 2rem;
+  margin-left: 2.5rem;
+}
+
+.back-color {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #fff;
+  position: relative;
+  top: -4rem;
+  left: 5.2rem;
+  z-index: 1;
+}
+
+.back-color-3 {
+  background-color: #fff;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  position: relative;
+  left: 5rem;
+  top: -4rem;
+  z-index: 99;
+}
+
+.micro {
+  position: relative;
+  z-index: 999;
+  right: 6.2rem;
+}
+
+.text-1 {
+  margin-left: 3.5rem;
+  margin-top: -2rem;
+}
+
+.lorem {
+  margin-top: 7rem;
+  background: #09061A;
+  width: 550px;
+  margin: 2rem auto;
+}
+
+.lorem-2 {
+  background: #09061A;
+  width: 400px;
+  margin: -2rem auto;
+}
+
+.date {
+  margin-top: 11rem;
+  margin-left: 1rem;
+}
+
+.link-icon {
+  margin-top: 11rem;
+}
+
+.text-url {
+  margin-top: -6.5rem;
+}
+
+.chat-footer {
+  width: 911px;
+  height: 60px;
+  flex-shrink: 0;
+  background-color: #fff;
+  border-radius: 0 0 10px 10px;
+}
+
+.footer-div {
+  margin-right: 1rem;
+}
+
+.borders {
+  border: 1px solid #e72c79;
+  width: 300px;
+  border-radius: 50%;
 }/*# sourceMappingURL=main.css.map */
