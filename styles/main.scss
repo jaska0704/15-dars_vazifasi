@@ -62,6 +62,12 @@ body {
   background: #5e4ae3;
   padding-top: 33px;
   padding-bottom: 33px;
+  transition: all 0.3s ease-in-out;
+  transform: translateX(-90%);
+
+  &:hover {
+    transform: translateX(0);
+  }
 
   & img {
     width: 25px;
@@ -75,11 +81,6 @@ body {
   flex-shrink: 0;
   border-radius: 10px;
   background: #fff;
-
-  & img {
-    width: 33px;
-    height: 33px;
-  }
 }
 
 .grit_text1 {
@@ -113,6 +114,7 @@ body {
   border-radius: 5px;
   background: #f2f2f2;
 }
+
 
 .bg-color {
   width: 911px;
@@ -178,9 +180,7 @@ top: 5.5rem;
   margin-right: 8rem;
 }
 
-.image-1{
-  // margin-left: 6rem;
-}
+
 
 .back-color-two{
    width: 50px;
@@ -295,3 +295,55 @@ border-radius: 0 0 10px 10px;
   width: 300px;
   border-radius: 50%;
 }
+
+.text_A {
+  width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  background: #D3CCFF;
+  color: #5e4ae3;
+  text-align: center;
+}
+
+.text_D {
+  width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  background: #fff0cc;
+  color: #C88C00;
+  text-align: center;
+}
+
+.text_i {
+   width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  background: #FFE4F3;
+  color:#FF008C;
+  text-align: center;
+}
+.text_m {
+   width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  background: #E0FAEB;
+  color:#64D094;
+  text-align: center;
+}
+.text_a {
+   width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  background: #EBF7C8;
+  color:#A8C845;
+  text-align: center;
+}
+
+.item6 {
+  width: 291px;
+height: 247px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #FFF;
+}
+
